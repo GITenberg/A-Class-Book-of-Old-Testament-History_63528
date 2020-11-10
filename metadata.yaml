@@ -1,0 +1,26 @@
+_repo: A-Class-Book-of-Old-Testament-History_63528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maclear, G. F. (George Frederick)
+    alias: Maclear, George Frederick
+    birthdate: 1833
+    deathdate: 1902
+    gutenberg_agent_id: '52493'
+    url: http://www.gutenberg.org/2009/agents/52493
+    wikipedia: https://en.wikipedia.org/wiki/George_Maclear
+description: ''
+gutenberg_issued: '2020-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Old Testament -- History of Biblical events'
+- GITenberg
+title: A Class-Book of Old Testament History
+url: http://www.gutenberg.org/ebooks/63528
